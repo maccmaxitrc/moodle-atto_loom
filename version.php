@@ -24,7 +24,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'atto_loom';
-$plugin->version = 2021112400;
+$plugin->version = 2023072500;
 $plugin->requires  = 2015051100;
-$plugin->maturity = MATURITY_RC;
+$plugin->maturity = MATURITY_STABLE;
 

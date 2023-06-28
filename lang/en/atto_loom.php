@@ -19,7 +19,7 @@
  */
 
 $string['pluginname'] = 'Loom Button';
-$string['record'] = 'Record video';
+$string['record'] = 'Record screen';
 $string['publicappid'] = 'Public App ID';
 $string['publicappid_desc'] = 'Insert the Loom recordSDK Public App ID received from the 
                           <a href="https://www.loom.com/developer-portal" target="_blank">Loom Developer Portal</a>';
